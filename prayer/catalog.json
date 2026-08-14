@@ -7,7 +7,7 @@
       "packageVersion": "2026.nationwide.1",
       "expectedZoneCount": 60,
       "expectedRecordCountPerZone": 365,
-      "artifactUrl": "https://raw.githubusercontent.com/izuan-dev/noor-prayer-data/main/prayer/MY/2026/2026.nationwide.1/prayer-MY-2026-2026.nationwide.1.zip",
+      "artifactUrl": "https://github.com/izuan-dev/noor-prayer-data/releases/download/prayer-data-MY-2026-2026.nationwide.1/prayer-MY-2026-2026.nationwide.1.zip",
       "artifactSha256": "30f4c4273bf63696023f1143eef6af8a7a3d8d87397f3c0b12d49777477a6772",
       "artifactSizeBytes": 7326500
     }
